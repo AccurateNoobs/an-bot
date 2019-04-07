@@ -1,0 +1,19 @@
+{
+  "name": "accuratenoob-2.0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "claw": "^0.0.9",
+    "discord.js": "^11.4.2",
+    "express": "^4.16.4",
+    "klaw": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
